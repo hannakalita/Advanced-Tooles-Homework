@@ -102,4 +102,9 @@ p {
   .email-link {
     font-size: 28px;
   }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
 }
